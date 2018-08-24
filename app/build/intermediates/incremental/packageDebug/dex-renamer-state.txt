@@ -1,7 +1,4 @@
-#Tue Aug 01 16:20:00 CST 2017
-base.0=D\:\\android_work\\ProductGesture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f666552c6477b4f5c96ad52c090f3139e974c6dd
-renamed.1=classes2.dex
+#Fri Aug 24 14:29:30 CST 2018
+base.0=D\:\\workflow_github\\ProductGesture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.1=D\:\\android_work\\ProductGesture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_912ce3f971feb8b24fa9d024cc20f15db0f673b4\\classes.dex
-base.1=D\:\\android_work\\ProductGesture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_912ce3f971feb8b24fa9d024cc20f15db0f673b4
-file.0=D\:\\android_work\\ProductGesture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f666552c6477b4f5c96ad52c090f3139e974c6dd\\classes.dex
+file.0=D\:\\workflow_github\\ProductGesture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

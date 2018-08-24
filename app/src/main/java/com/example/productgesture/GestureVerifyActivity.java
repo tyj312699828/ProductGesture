@@ -25,7 +25,7 @@ public class GestureVerifyActivity extends Activity{
 	
 	private void setUpViews() {
 		view = (GestureVerifyView) findViewById(R.id.gestrue_verify_view);
-		view.setUserAcNo("186****2615");
+		view.setUserAcNo("186****1111");
 		
 		view.setGestureListener(new GestureVerifyView.GestureVerifyCallback() {
 			

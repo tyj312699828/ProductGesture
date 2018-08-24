@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\workflow_github\\ProductGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\workflow_github\\ProductGesture\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\android_work\\ProductGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
         "source": "D:\\android_work\\ProductGesture\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     }
