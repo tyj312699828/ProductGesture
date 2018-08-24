@@ -1,0 +1,119 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* doc\
+* doc\allclasses-frame.html
+* doc\allclasses-noframe.html
+* doc\cn\
+* doc\cn\com\
+* doc\cn\com\core\
+* doc\cn\com\core\gesture\
+* doc\cn\com\core\gesture\util\
+* doc\cn\com\core\gesture\util\Constants.html
+* doc\cn\com\core\gesture\util\GestureContentView.html
+* doc\cn\com\core\gesture\util\GestureDrawline.GestureCallBack.html
+* doc\cn\com\core\gesture\util\GestureDrawline.html
+* doc\cn\com\core\gesture\util\GesturePoint.html
+* doc\cn\com\core\gesture\util\GestureUtil.html
+* doc\cn\com\core\gesture\util\LockIndicator.html
+* doc\cn\com\core\gesture\util\class-use\
+* doc\cn\com\core\gesture\util\class-use\Constants.html
+* doc\cn\com\core\gesture\util\class-use\GestureContentView.html
+* doc\cn\com\core\gesture\util\class-use\GestureDrawline.GestureCallBack.html
+* doc\cn\com\core\gesture\util\class-use\GestureDrawline.html
+* doc\cn\com\core\gesture\util\class-use\GesturePoint.html
+* doc\cn\com\core\gesture\util\class-use\GestureUtil.html
+* doc\cn\com\core\gesture\util\class-use\LockIndicator.html
+* doc\cn\com\core\gesture\util\package-frame.html
+* doc\cn\com\core\gesture\util\package-summary.html
+* doc\cn\com\core\gesture\util\package-tree.html
+* doc\cn\com\core\gesture\util\package-use.html
+* doc\cn\com\core\gesture\view\
+* doc\cn\com\core\gesture\view\GestureSetView.GestureSetCallback.html
+* doc\cn\com\core\gesture\view\GestureSetView.html
+* doc\cn\com\core\gesture\view\GestureVerifyView.GestureVerifyCallback.html
+* doc\cn\com\core\gesture\view\GestureVerifyView.html
+* doc\cn\com\core\gesture\view\GestureView.html
+* doc\cn\com\core\gesture\view\class-use\
+* doc\cn\com\core\gesture\view\class-use\GestureSetView.GestureSetCallback.html
+* doc\cn\com\core\gesture\view\class-use\GestureSetView.html
+* doc\cn\com\core\gesture\view\class-use\GestureVerifyView.GestureVerifyCallback.html
+* doc\cn\com\core\gesture\view\class-use\GestureVerifyView.html
+* doc\cn\com\core\gesture\view\class-use\GestureView.html
+* doc\cn\com\core\gesture\view\package-frame.html
+* doc\cn\com\core\gesture\view\package-summary.html
+* doc\cn\com\core\gesture\view\package-tree.html
+* doc\cn\com\core\gesture\view\package-use.html
+* doc\constant-values.html
+* doc\deprecated-list.html
+* doc\help-doc.html
+* doc\index-files\
+* doc\index-files\index-1.html
+* doc\index-files\index-10.html
+* doc\index-files\index-11.html
+* doc\index-files\index-12.html
+* doc\index-files\index-13.html
+* doc\index-files\index-2.html
+* doc\index-files\index-3.html
+* doc\index-files\index-4.html
+* doc\index-files\index-5.html
+* doc\index-files\index-6.html
+* doc\index-files\index-7.html
+* doc\index-files\index-8.html
+* doc\index-files\index-9.html
+* doc\index.html
+* doc\overview-frame.html
+* doc\overview-summary.html
+* doc\overview-tree.html
+* doc\package-list
+* doc\resources\
+* doc\resources\background.gif
+* doc\resources\tab.gif
+* doc\resources\titlebar.gif
+* doc\resources\titlebar_end.gif
+* doc\stylesheet.css
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:22.2.1
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

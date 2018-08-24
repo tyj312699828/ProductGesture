@@ -1,0 +1,10 @@
+#Sat Jul 22 16:58:42 CST 2017
+renamed.2=classes3.dex
+renamed.1=classes.dex
+renamed.0=classes2.dex
+base.2=D\:\\android_work\\ProductGesture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_461f548b446753345363ad607671a0643fd19fcc
+base.1=D\:\\android_work\\ProductGesture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9632637b2027194b902d43dd1252bc7e00df68d1
+base.0=D\:\\android_work\\ProductGesture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_50b62a0ea0daffceefc01f2285816b15f78fcba8
+file.2=D\:\\android_work\\ProductGesture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_461f548b446753345363ad607671a0643fd19fcc\\classes.dex
+file.1=D\:\\android_work\\ProductGesture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9632637b2027194b902d43dd1252bc7e00df68d1\\classes.dex
+file.0=D\:\\android_work\\ProductGesture\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_50b62a0ea0daffceefc01f2285816b15f78fcba8\\classes.dex
